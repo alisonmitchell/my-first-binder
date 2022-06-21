@@ -15,4 +15,4 @@ One tool *The Turing Way* recommends using is [Project Binder](https://jupyter.o
 * [mybinder.org](https://mybinder.org/) is a single deployment of a BinderHub instance that is public and free to use.
 
 ## From Zero to Binder!
-A [tutorial](https://bit.ly/zero-to-binder-tutorial) that walks through how to create a Binder-ready repository on GitHub.
+A [tutorial](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html) that walks through how to create a Binder-ready repository on GitHub.
